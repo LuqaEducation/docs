@@ -25,7 +25,7 @@ Here is a list of the different use cases of the platform
 ![Luqa's uses_cases-Authentification](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Authentification.png)
 
 ### Blog
-![Luqa's uses_cases-Blog](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Blog.)
+![Luqa's uses_cases-Blog](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Blog.png)
 
 ### Course
 ![Luqa's uses_cases-Cours](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Cours.png)
