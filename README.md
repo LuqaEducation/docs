@@ -9,7 +9,8 @@ Find below a list of all the technical documents of the Luqa.tk platform (use ca
 2.2. [Authentification](#authentification) <br>
 2.3. [Blog](#blog) <br>
 2.4. [Course](#course) <br>
-3. [Activity diagram](#activity-diagram)
+3. [Activity diagram](#activity-diagram) <br>
+3.1. [Acitivity Course](#acitivity-course) <br>
 4. [Functional Mapping](#functional-mapping)
 5. [MCD](#mcd)
 
@@ -26,13 +27,26 @@ Our last equally important feature is the collaborative cloud for teachers, wher
 Here is a list of the different use cases of the platform
 
 ### Base of the application
-![Luqa's uses_cases-Base](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Base.png)
+<img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Base.png" width="300px" height="300px">
 
 ### Authentification
-![Luqa's uses_cases-Authentification](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Authentification.png)
+<img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Authentification.png" width="300px" height="300px">
 
 ### Blog
-![Luqa's uses_cases-Blog](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Blog.png)
+<img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Blog.png" width="300px" height="300px">
 
 ### Course
-![Luqa's uses_cases-Cours](https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Cours.png)
+<img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/uses_cases-Cours.png" width="300px" height="300px">
+
+
+## Activity diagram
+Here is a list of the different activity diagram of the use cases
+
+### Acitivity Course
+<div style="display: flex">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_create.png" width="300px" height="300px">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_edit.png" width="300px" height="300px">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_delete.png" width="300px" height="300px">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_homepage.png" width="300px" height="300px">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_item.png" width="300px" height="300px">
+</div>
