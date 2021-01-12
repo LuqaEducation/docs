@@ -58,3 +58,8 @@ Here is a list of the different activity diagram of the use cases
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Auth_login.png" width="300px" height="300px">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Auth_register.png" width="300px" height="300px">
 </div>
+
+## MCD
+<div style="display: flex">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/MCD.png">
+</div>
