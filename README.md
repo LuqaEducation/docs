@@ -10,9 +10,9 @@ Find below a list of all the technical documents of the Luqa.tk platform (use ca
 2.3. [Blog](#blog) <br>
 2.4. [Course](#course) <br>
 3. [Activity diagram](#activity-diagram) <br>
-3.1. [Acitivity Course](#acitivity-course) <br>
-3.2. [Acitivity Authentication](#acitivity-authentication) <br>
-3.2. [Acitivity Classes](#acitivity-classes) <br>
+3.1. [Activity Course](#activity-course) <br>
+3.2. [Activity Authentication](#activity-authentication) <br>
+3.2. [Activity Classes](#activity-classes) <br>
 4. [Functional Mapping](#functional-mapping)
 5. [MCD](#mcd)
 
@@ -44,7 +44,7 @@ Here is a list of the different use cases of the platform
 ## Activity diagram
 Here is a list of the different activity diagram of the use cases
 
-### Acitivity Course
+### Activity Course
 <div style="display: flex">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_create.png" width="300px" height="300px">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Course_edit.png" width="300px" height="300px">
@@ -54,14 +54,14 @@ Here is a list of the different activity diagram of the use cases
 </div>
 
 
-### Acitivity Authentication
+### Activity Authentication
 <div style="display: flex">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Auth_login.png" width="300px" height="300px">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Auth_register.png" width="300px" height="300px">
 </div>
 
 
-### Acitivity Classes
+### Activity Classes
 <div style="display: flex">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Class_create.png" width="300px" height="300px">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Class_join.png" width="300px" height="300px">
