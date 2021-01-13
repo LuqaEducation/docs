@@ -12,7 +12,8 @@ Find below a list of all the technical documents of the Luqa.tk platform (use ca
 3. [Activity diagram](#activity-diagram) <br>
 3.1. [Activity Course](#activity-course) <br>
 3.2. [Activity Authentication](#activity-authentication) <br>
-3.2. [Activity Classes](#activity-classes) <br>
+3.3. [Activity Blog](#activity-blog) <br>
+3.4. [Activity Classes](#activity-classes) <br>
 4. [Functional Mapping](#functional-mapping)
 5. [MCD](#mcd)
 
@@ -58,6 +59,13 @@ Here is a list of the different activity diagram of the use cases
 <div style="display: flex">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Auth_login.png" width="300px" height="300px">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Auth_register.png" width="300px" height="300px">
+</div>
+
+
+### Activity Blog
+<div style="display: flex">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Article_create.png" width="300px" height="300px">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Article_edit.png" width="300px" height="300px">
 </div>
 
 
