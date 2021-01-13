@@ -67,6 +67,13 @@ Here is a list of the different activity diagram of the use cases
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Class_join.png" width="300px" height="300px">
 </div>
 
+
+## Functional Mapping
+<div style="display: flex">
+  <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/Functional_mapping.png">
+</div>
+
+
 ## MCD
 <div style="display: flex">
   <img src="https://raw.githubusercontent.com/LuqaEducation/docs/master/MCD.png">
